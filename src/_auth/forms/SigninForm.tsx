@@ -1,7 +1,7 @@
 
 const SigninForm = () => {
   return (
-    <div>SigninForm</div>
+    <div className="text-primary">SigninForm</div>
   )
 }
 
